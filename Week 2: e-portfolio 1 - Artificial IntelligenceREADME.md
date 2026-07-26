@@ -2,7 +2,7 @@
 
 ## Overview
 
-This e-portfolio contains a collection of artefacts that demonstrate my learning and understanding of Artificial Intelligence (AI) during Week 2.
+ This e-portfolio contains a collection of artefacts that demonstrate my learning and understanding of Artificial Intelligence (AI) during Week 2.
 
 ---
 
