@@ -6,9 +6,8 @@ A collection of artefacts that demonstrate what I have learnt about **Censorship
 
 ## Artefact 1: What is Censorship and Government?
 
-### Image
+<img width="940" height="599" alt="image" src="https://github.com/user-attachments/assets/7ebc34c3-665b-410e-aa4e-bc553a585ee7" />
 
-![Censorship and Government](images/censorship-government.jpg)
 
 ### Video URL
 
@@ -34,9 +33,8 @@ This artefact helped me consider the issue of balancing the protection of the po
 
 ## Artefact 2: A News Article I Found This Week
 
-### Image
+<img width="940" height="508" alt="image" src="https://github.com/user-attachments/assets/9c72f315-6bd3-44df-8938-9a43803a5ca2" />
 
-![Digital Harm Bill](images/digital-harm-bill.jpg)
 
 ### Article URL
 
@@ -64,9 +62,8 @@ This article made me realise that creating laws for online safety is not easy be
 
 ## Artefact 3: Scholarly Article
 
-### Image
+<img width="940" height="571" alt="image" src="https://github.com/user-attachments/assets/0994dda5-098f-4943-82a0-8d214e4a5f00" />
 
-![Selective Control](images/selective-control.jpg)
 
 ### Article URL
 
@@ -105,7 +102,8 @@ The article was useful in helping me understand that censorship is not only abou
 
 ### Workshop Photo
 
-![Week 9 Workshop](images/week9-workshop.jpg)
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d9ec3715-43fa-44b3-ae12-f8cc919eee7c" />
+
 
 ### Artefact #4 – Key Idea Learned in the Workshop
 
